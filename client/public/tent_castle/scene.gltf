@@ -1,0 +1,631 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4713,
+      "max": [
+        0.7985708713531494,
+        0.6191406846046448,
+        0.6436532735824585
+      ],
+      "min": [
+        -0.7985708713531494,
+        -1.7602512836456299,
+        0.004152002278715372
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56556,
+      "componentType": 5126,
+      "count": 4713,
+      "max": [
+        0.9998444318771362,
+        0.9999059438705444,
+        1.0
+      ],
+      "min": [
+        -0.9999901652336121,
+        -0.999624490737915,
+        -0.9999997019767761
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4713,
+      "max": [
+        1.0,
+        0.9990043044090271,
+        0.9996079206466675,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9993698000907898,
+        -0.999650239944458,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4713,
+      "max": [
+        0.9800670146942139,
+        0.9879963397979736
+      ],
+      "min": [
+        0.008904351852834225,
+        0.00407690554857254
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 37704,
+      "componentType": 5126,
+      "count": 4713,
+      "max": [
+        0.9800670146942139,
+        0.9879963397979736
+      ],
+      "min": [
+        0.008904351852834225,
+        0.00407690554857254
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 38352,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 113112,
+      "componentType": 5126,
+      "count": 3239,
+      "max": [
+        1.0683259963989258,
+        0.9017562866210938,
+        1.9712095260620117
+      ],
+      "min": [
+        -1.0683259963989258,
+        -0.9096051454544067,
+        0.006475639063864946
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 151980,
+      "componentType": 5126,
+      "count": 3239,
+      "max": [
+        0.9999619722366333,
+        0.9999662637710571,
+        0.9999997615814209
+      ],
+      "min": [
+        -0.9999619722366333,
+        -0.9999939203262329,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 75408,
+      "componentType": 5126,
+      "count": 3239,
+      "max": [
+        0.9999986886978149,
+        0.9995290637016296,
+        0.9999915957450867,
+        1.0
+      ],
+      "min": [
+        -0.9999987483024597,
+        -1.0,
+        -0.9998209476470947,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 75408,
+      "componentType": 5126,
+      "count": 3239,
+      "max": [
+        0.992430567741394,
+        0.9982718229293823
+      ],
+      "min": [
+        0.004784413147717714,
+        0.02099934220314026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 101320,
+      "componentType": 5126,
+      "count": 3239,
+      "max": [
+        0.992430567741394,
+        0.9982718229293823
+      ],
+      "min": [
+        0.004784413147717714,
+        0.02099934220314026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 153408,
+      "componentType": 5125,
+      "count": 25107,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 190848,
+      "componentType": 5126,
+      "count": 3694,
+      "max": [
+        0.9810213446617126,
+        0.6310891509056091,
+        1.6948696374893188
+      ],
+      "min": [
+        -0.9810213446617126,
+        -0.8233962655067444,
+        0.4879789650440216
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 235176,
+      "componentType": 5126,
+      "count": 3694,
+      "max": [
+        0.9999939203262329,
+        0.9999998807907104,
+        0.9999963641166687
+      ],
+      "min": [
+        -0.9999939203262329,
+        -1.0,
+        -0.9999987483024597
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 127232,
+      "componentType": 5126,
+      "count": 3694,
+      "max": [
+        1.0,
+        0.9999160170555115,
+        0.9999422430992126,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999996423721313,
+        -0.9984872937202454,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 127232,
+      "componentType": 5126,
+      "count": 3694,
+      "max": [
+        0.9855852723121643,
+        0.9623759984970093
+      ],
+      "min": [
+        0.012642666697502136,
+        0.013419687747955322
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 253836,
+      "componentType": 5125,
+      "count": 30258,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "gustavosept (https://sketchfab.com/gustavosept)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/inflated-party-tent-castle-for-kids-bb2ee1d7d3ef4eb6afaea3f89dba96a3",
+      "title": "Inflated Party Tent Castle for Kids"
+    },
+    "generator": "Sketchfab-14.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 374868,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 156784,
+      "byteOffset": 374868,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 279504,
+      "byteOffset": 531652,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 186336,
+      "byteOffset": 811156,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 997492,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/tentCastle_01_baseColor.png"
+    },
+    {
+      "uri": "textures/tentCastle_01_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/tentCastle_01_normal.png"
+    },
+    {
+      "uri": "textures/tentCastle_03_baseColor.png"
+    },
+    {
+      "uri": "textures/tentCastle_03_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/tentCastle_03_normal.png"
+    },
+    {
+      "uri": "textures/tentCastle_02_baseColor.png"
+    },
+    {
+      "uri": "textures/tentCastle_02_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/tentCastle_02_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "tentCastle_01",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.1,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "name": "tentCastle_03",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.1,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "alphaCutoff": 0.18645834615045484,
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "name": "tentCastle_02",
+      "normalTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0.1,
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "tentCastle_01_tentCastle_01_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tentCastle_03_tentCastle_03_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tentCastle_02_tentCastle_02_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 15
+          },
+          "indices": 16,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "aa6e6b8c4b3d455c90ddf5c4124f81c8.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tentCastle_01"
+    },
+    {
+      "mesh": 0,
+      "name": "tentCastle_01_tentCastle_01_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tentCastle_03"
+    },
+    {
+      "mesh": 1,
+      "name": "tentCastle_03_tentCastle_03_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tentCastle_02"
+    },
+    {
+      "mesh": 2,
+      "name": "tentCastle_02_tentCastle_02_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}
