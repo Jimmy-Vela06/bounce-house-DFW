@@ -1,19 +1,23 @@
 # Bounce House | DFW
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## ![MIT license](https://img.shields.io/badge/License-MIT-red.svg) 
+## ![MIT license](https://img.shields.io/badge/License-MIT-red.svg)
 
 ## Table of Contents:
 
 - [Bounce House | DFW](#bounce-house--dfw)
-  - [ ](#----)
+  - [](#)
   - [Table of Contents:](#table-of-contents)
   - [Description](#description)
   - [Demo](#demo)
   - [Technologies](#technologies)
   - [Features](#features)
   - [Process](#process)
+  - [Usage](#usage)
   - [Links](#links)
   - [License](#license)
 
@@ -63,6 +67,26 @@ user can either use the number to call or send a message via email.
    to send
 6. Style and give unuiqe animations with TailwindCSS and FramerMotion.
 7. Using Hostzinger to host webpage.
+
+## Usage
+
+cd into the frontend client directory
+
+```
+cd client
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run react app
+
+```
+npm run dev
+```
 
 ## Links
 
