@@ -8,10 +8,6 @@
 ## ![MIT license](https://img.shields.io/badge/License-MIT-red.svg)
 
 ## Table of Contents:
-
-- [Bounce House | DFW](#bounce-house--dfw)
-  - [](#)
-  - [Table of Contents:](#table-of-contents)
   - [Description](#description)
   - [Demo](#demo)
   - [Technologies](#technologies)
